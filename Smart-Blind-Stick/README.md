@@ -59,7 +59,7 @@ GND       GND
 
 Output / Demo
 
-![Hardware image](smart blind stick.jpg)
+![Hardware image](smartblindstick.jpg)
 
 Applications
 
