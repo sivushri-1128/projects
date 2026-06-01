@@ -59,7 +59,7 @@ GND       GND
 
 Output / Demo
 
-(Add your circuit images or project photos here)
+![Hardware image](smart blind stick.jpg)
 
 Applications
 
